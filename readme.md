@@ -12,10 +12,12 @@ CTRL+click on below image to open the video in new tab
 [![FlashCars Demo](https://img.youtube.com/vi/aR1zt-sso1o/0.jpg)](https://www.youtube.com/watch?v=aR1zt-sso1o "FlashCars Youtube Demo")
 
 ### Relational Model Visualisation of FlashCars  
-![realtional model](https://github.com/ankitkat042/FlashCars/assets/79627254/39dd123d-4066-4fe8-9420-7d9babc46ca0)
+![realtional model](https://github.com/ankitkat042/FlashCars/assets/79627254/14e2cd42-21fe-44c1-94b7-b1ac95de49e9)
+
 
 ### Entity Diagram of FlashCars
-![entity diagram](https://github.com/ankitkat042/FlashCars/assets/79627254/0521dca9-ab71-4697-9f58-f7d73098c500)
+![entity diagram](https://github.com/ankitkat042/FlashCars/assets/79627254/f12c6950-33a1-4a93-a7cc-8c6a3258aab6)
+
 
 
 ## How to run on your local machine
